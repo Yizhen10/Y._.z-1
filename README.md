@@ -7,6 +7,7 @@ print 打出後需再打「" "」或者是「' '」才會顯示出你打的內�
 例如：
 
 print"Hello apple"
+---
 
 就會只出現 Hello apple
 
